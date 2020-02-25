@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582653113271.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BB39727",
+    "lastKnownWriteTime" : 140192181072120,
+    "last_content_update" : 1582653113271,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "20DD21AE",
+        "caption" : "baltimore",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=baltimore&cache_key=20DD21AE",
+        "displayedObservations" : "290908",
+        "environment" : "",
+        "expression" : "baltimore",
+        "object" : "baltimore",
+        "preview" : "0",
+        "totalObservations" : "290908",
+        "variables" : "42"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

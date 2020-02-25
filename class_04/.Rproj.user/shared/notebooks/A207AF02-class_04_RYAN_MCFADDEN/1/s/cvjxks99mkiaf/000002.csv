@@ -1,0 +1,131 @@
+"0",""
+"0","glimpse(baltimore)"
+"1","Observations: 290,908
+"
+"1","Variables: 42
+"
+"1","$ reporter_dea_no       [3m[38;5;246m<chr>[39m[23m ""PB0034861"", ""PB0034861"", ""PB0034861"", ""PB0034861"", ""PB0034861""…
+"
+"1",""
+"1","$ reporter_bus_act      [3m[38;5;246m<chr>[39m[23m ""DISTRIBUTOR"", ""DISTRIBUTOR"", ""DISTRIBUTOR"", ""DISTRIBUTOR"", ""DI…
+"
+"1",""
+"1","$ reporter_name         [3m[38;5;246m<chr>[39m[23m ""BELLCO DRUG CORP"", ""BELLCO DRUG CORP"", ""BELLCO DRUG CORP"", ""BE…
+"
+"1",""
+"1","$ reporter_addl_co_info [3m[38;5;246m<chr>[39m[23m ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"",…
+"
+"1",""
+"1","$ reporter_address1     [3m[38;5;246m<chr>[39m[23m ""5500 NEW HORIZONS BLVD"", ""5500 NEW HORIZONS BLVD"", ""5500 NEW H…
+"
+"1",""
+"1","$ reporter_address2     [3m[38;5;246m<chr>[39m[23m ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""7721 POLK STRE…
+"
+"1",""
+"1","$ reporter_city         [3m[38;5;246m<chr>[39m[23m ""NORTH AMITYVILLE"", ""NORTH AMITYVILLE"", ""NORTH AMITYVILLE"", ""NO…
+"
+"1",""
+"1","$ reporter_state        [3m[38;5;246m<chr>[39m[23m ""NY"", ""NY"", ""NY"", ""NY"", ""NY"", ""NY"", ""MD"", ""MD"", ""MD"", ""MD"", ""MD…
+"
+"1",""
+"1","$ reporter_zip          [3m[38;5;246m<dbl>[39m[23m 11701, 11701, 11701, 11701, 11701, 11701, 20785, 20785, 20785, …
+"
+"1",""
+"1","$ reporter_county       [3m[38;5;246m<chr>[39m[23m ""SUFFOLK"", ""SUFFOLK"", ""SUFFOLK"", ""SUFFOLK"", ""SUFFOLK"", ""SUFFOLK…
+"
+"1",""
+"1","$ buyer_dea_no          [3m[38;5;246m<chr>[39m[23m ""BS9306944"", ""BS9306944"", ""BS9306944"", ""BS9306944"", ""BS9306944""…
+"
+"1",""
+"1","$ buyer_bus_act         [3m[38;5;246m<chr>[39m[23m ""RETAIL PHARMACY"", ""RETAIL PHARMACY"", ""RETAIL PHARMACY"", ""RETAI…
+"
+"1",""
+"1","$ buyer_name            [3m[38;5;246m<chr>[39m[23m ""SUNRISE PHARMACY"", ""SUNRISE PHARMACY"", ""SUNRISE PHARMACY"", ""SU…
+"
+"1",""
+"1","$ buyer_addl_co_info    [3m[38;5;246m<chr>[39m[23m ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"",…
+"
+"1",""
+"1","$ buyer_address1        [3m[38;5;246m<chr>[39m[23m ""1900 EAST NORTHERN PKWY SUITE 100"", ""1900 EAST NORTHERN PKWY S…
+"
+"1",""
+"1","$ buyer_address2        [3m[38;5;246m<chr>[39m[23m ""SUITE 100"", ""SUITE 100"", ""SUITE 100"", ""SUITE 100"", ""SUITE 100""…
+"
+"1",""
+"1","$ buyer_city            [3m[38;5;246m<chr>[39m[23m ""BALTIMORE"", ""BALTIMORE"", ""BALTIMORE"", ""BALTIMORE"", ""BALTIMORE""…
+"
+"1",""
+"1","$ buyer_state           [3m[38;5;246m<chr>[39m[23m ""MD"", ""MD"", ""MD"", ""MD"", ""MD"", ""MD"", ""MD"", ""MD"", ""MD"", ""MD"", ""MD…
+"
+"1",""
+"1","$ buyer_zip             [3m[38;5;246m<dbl>[39m[23m 21239, 21239, 21239, 21239, 21239, 21239, 21206, 21206, 21206, …
+"
+"1",""
+"1","$ buyer_county          [3m[38;5;246m<chr>[39m[23m ""BALTIMORE CITY"", ""BALTIMORE CITY"", ""BALTIMORE CITY"", ""BALTIMOR…
+"
+"1",""
+"1","$ transaction_code      [3m[38;5;246m<chr>[39m[23m ""S"", ""S"", ""S"", ""S"", ""S"", ""S"", ""S"", ""S"", ""S"", ""S"", ""S"", ""S"", ""S""…
+"
+"1",""
+"1","$ drug_code             [3m[38;5;246m<dbl>[39m[23m 9193, 9143, 9143, 9143, 9143, 9143, 9143, 9143, 9143, 9193, 914…
+"
+"1",""
+"1","$ ndc_no                [3m[38;5;246m<chr>[39m[23m ""00591085305"", ""00054465029"", ""60951070070"", ""00054465029"", ""00…
+"
+"1",""
+"1","$ drug_name             [3m[38;5;246m<chr>[39m[23m ""HYDROCODONE"", ""OXYCODONE"", ""OXYCODONE"", ""OXYCODONE"", ""OXYCODON…
+"
+"1",""
+"1","$ quantity              [3m[38;5;246m<dbl>[39m[23m 2, 4, 5, 4, 10, 10, 8, 1, 2, 1, 2, 2, 3, 5, 2, 4, 2, 2, 3, 2, 4…
+"
+"1",""
+"1","$ unit                  [3m[38;5;246m<chr>[39m[23m ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"",…
+"
+"1",""
+"1","$ action_indicator      [3m[38;5;246m<chr>[39m[23m ""null"", ""I"", ""I"", ""null"", ""I"", ""I"", ""null"", ""null"", ""null"", ""nu…
+"
+"1",""
+"1","$ order_form_no         [3m[38;5;246m<chr>[39m[23m ""null"", ""054340512"", ""054340512"", ""061029210"", ""061029200"", ""06…
+"
+"1",""
+"1","$ correction_no         [3m[38;5;246m<chr>[39m[23m ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"", ""null"",…
+"
+"1",""
+"1","$ strength              [3m[38;5;246m<chr>[39m[23m ""0000"", ""0000"", ""0000"", ""0000"", ""0000"", ""0000"", ""null"", ""null"",…
+"
+"1",""
+"1","$ transaction_date      [3m[38;5;246m<chr>[39m[23m ""01262006"", ""02212006"", ""02212006"", ""06082006"", ""07212006"", ""03…
+"
+"1",""
+"1","$ calc_base_wt_in_gm    [3m[38;5;246m<dbl>[39m[23m 6.054000, 8.965000, 3.361875, 8.965000, 13.447500, 26.895000, 3…
+"
+"1",""
+"1","$ dosage_unit           [3m[38;5;246m<dbl>[39m[23m 1000, 2000, 500, 2000, 1000, 1000, 800, 100, 200, 100, 200, 200…
+"
+"1",""
+"1","$ transaction_id        [3m[38;5;246m<dbl>[39m[23m 8219, 5449, 5722, 2231, 5301, 5541, 601037271, 610042351, 70104…
+"
+"1",""
+"1","$ product_name          [3m[38;5;246m<chr>[39m[23m ""HYDROCODONE BIT. 10MG/ACETAMINOPHEN"", ""ROXICET - OXYCODONE.HCL…
+"
+"1",""
+"1","$ ingredient_name       [3m[38;5;246m<chr>[39m[23m ""HYDROCODONE BITARTRATE HEMIPENTAHYDRATE"", ""OXYCODONE HYDROCHLO…
+"
+"1",""
+"1","$ measure               [3m[38;5;246m<chr>[39m[23m ""TAB"", ""TAB"", ""TAB"", ""TAB"", ""TAB"", ""TAB"", ""TAB"", ""TAB"", ""TAB"", …
+"
+"1",""
+"1","$ mme_conversion_factor [3m[38;5;246m<dbl>[39m[23m 1.0, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.0, 1.5, 1.5, 1.5…
+"
+"1",""
+"1","$ combined_labeler_name [3m[38;5;246m<chr>[39m[23m ""Actavis Pharma, Inc."", ""West-Ward Pharmaceuticals Corp."", ""Par…
+"
+"1",""
+"1","$ revised_company_name  [3m[38;5;246m<chr>[39m[23m ""Allergan, Inc."", ""West-Ward Pharmaceuticals Corp."", ""Endo Phar…
+"
+"1",""
+"1","$ reporter_family       [3m[38;5;246m<chr>[39m[23m ""Bellco Drug Corp"", ""Bellco Drug Corp"", ""Bellco Drug Corp"", ""Be…
+"
+"1",""
+"1","$ dos_str               [3m[38;5;246m<dbl>[39m[23m 10.0, 5.0, 7.5, 5.0, 15.0, 30.0, 5.0, 20.0, 80.0, 5.0, 10.0, 40…
+"

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582651802722.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3997849062",
+    "id" : "BD9948DB",
+    "lastKnownWriteTime" : 1582656699,
+    "last_content_update" : 1582656699831,
+    "path" : "~/Desktop/mcfadden-lab04-master/class_04/class_04_RYAN_MCFADDEN.Rmd",
+    "project_path" : "class_04_RYAN_MCFADDEN.Rmd",
+    "properties" : {
+        "cursorPosition" : "183,52",
+        "last_setup_crc32" : "C711C6CCd4872713",
+        "scrollLine" : "163"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
