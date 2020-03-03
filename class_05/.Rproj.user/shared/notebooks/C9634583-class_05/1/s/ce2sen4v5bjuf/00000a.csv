@@ -1,0 +1,12 @@
+"0",""
+"0","buyer_addresses %>%"
+"0","select(buyer_addresses, buyer_annual_by_year, buyer_totals) %>% "
+"0","arrange(desc(buyer_totals)) %>%"
+"0",""
+"0",""
+"2","Error: Incomplete expression: 
+buyer_addresses >
+select(buyer_addresses, buyer_annual_by_year, buyer_totals) >
+arrange(desc(buyer_totals)) >
+
+"

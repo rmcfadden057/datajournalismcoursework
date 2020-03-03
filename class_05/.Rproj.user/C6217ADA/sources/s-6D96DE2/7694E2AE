@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583258538203.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7694E2AE",
+    "lastKnownWriteTime" : 6895688344092895107,
+    "last_content_update" : 1583258538203,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3FAC3DDF",
+        "caption" : "buyer_addresses",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=buyer_addresses&cache_key=3FAC3DDF",
+        "displayedObservations" : "278697",
+        "environment" : "",
+        "expression" : "buyer_addresses",
+        "object" : "buyer_addresses",
+        "preview" : "0",
+        "totalObservations" : "278697",
+        "variables" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
