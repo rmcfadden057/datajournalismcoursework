@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583258543517.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "487C7A79",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1583258543517,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "46352F17",
+        "caption" : "buyer_annual_by_year",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=buyer_annual_by_year&cache_key=46352F17",
+        "displayedObservations" : "615438",
+        "environment" : "",
+        "expression" : "buyer_annual_by_year",
+        "object" : "buyer_annual_by_year",
+        "preview" : "0",
+        "totalObservations" : "615438",
+        "variables" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583258546646.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DDB9774B",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1583258546646,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B10263FE",
+        "caption" : "buyer_totals",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=buyer_totals&cache_key=B10263FE",
+        "displayedObservations" : "148597",
+        "environment" : "",
+        "expression" : "buyer_totals",
+        "object" : "buyer_totals",
+        "preview" : "0",
+        "totalObservations" : "148597",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
